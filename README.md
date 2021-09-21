@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/a0x001" target="blank"><img src="https://img.shields.io/twitter/follow/a0x001?logo=twitter&style=for-the-badge" alt="a0x001" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Dart and Flutter**
 
 - 👨‍💻 All of my projects are available at [allanmaina.vercel.app](allanmaina.vercel.app)
 
-- 💬 Ask me about **Javascript, Python, C++, C, React, Node**
+- 💬 Ask me about **Javascript, Python, C++, C, React, Node Dart, Flutter**
 
 - 📫 How to reach me **amuturi01@gmail.com**
 
