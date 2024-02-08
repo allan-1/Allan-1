@@ -6,13 +6,13 @@
 ### <div align="center">I'm Allan Muturi Maina, a full-time mobile and web developer  👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on Building Mobile Application  
+- 🔭 I’m currently working on Building Mobile Application
   
 
-- 🌱 I’m currently learning Kotlin and Docker  
+- 🌱 I’m currently learning Swift  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to mobile development 
   
 
 - ⚡ Fun fact: I'm a machine which turns coffee to code.  
